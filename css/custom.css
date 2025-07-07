@@ -1,0 +1,36 @@
+.bg-primary {
+    background-color : #fff5de !important;
+}
+
+.bg-orange {
+    background-color: #F37C64 !important;
+}
+
+.font-schoolbell {
+    font-family: "Schoolbell";
+}
+
+.font-sniglet {
+    font-family: "Sniglet";
+}
+
+.letter-1 {
+    letter-spacing: 2px !important;
+}
+
+.letter-0 {
+    letter-spacing: 1px !important;
+}
+
+.font-primary {
+    color: #F37C64 !important;
+}
+
+.font-secondary {
+    color: #008180 !important;
+}
+
+.bottom-bar {
+    border-bottom: 2px solid #fff !important;
+    padding-bottom: 10px;
+    }

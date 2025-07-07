@@ -1,0 +1,125 @@
+    body {
+    padding-top: 128px;
+    }
+    .link-blue:hover {
+    color: #008180;
+    text-decoration: underline;
+    text-underline-offset: 0.4rem;
+    }
+    .link-orange:hover {
+    color: #f37c64;
+    text-decoration: underline;
+    text-underline-offset: 0.4rem;
+    }
+
+    .btn-kenali {
+    background-color: #008180 !important;
+    border-radius: 30px;
+    }
+
+    .btn-baca {
+    background-color: #f37c64 !important;
+    border-radius: 30px;
+    }
+
+    .about-section {
+    background-color: #fff5de;
+    padding: 50px 0;
+    }
+
+    .owner-image {
+    max-width: 85%;
+    margin-left: -10px !important;
+    margin-top: 40px !important;
+    height: auto;
+    }
+
+    .about-section h1 {
+    border-bottom: 2px solid #f37c64;
+    padding-bottom: 10px;
+    }
+
+    .baca-section {
+    background-color: #f37c64;
+    padding: 50px 0;
+    }
+    .genre-section {
+    background-color: #008180;
+    padding: 50px 0;
+    }
+
+    .baca-section h1 {
+    border-bottom: 2px solid #ffffff;
+    padding-bottom: 13px;
+    }
+
+    .btn-mulai {
+    background-color: #f37c64;
+    border-radius: 10px !important;
+    font-size: 13px;
+    border: 1px solid white;
+    transition: 0.4s ease-in-out;
+    }
+
+    .btn-mulai:hover {
+    background-color: #008180;
+    }
+
+    .video-card {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    }
+    .video-card img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    }
+    .video-card .card-body {
+    padding: 10px;
+    }
+    .video-card .card-body .icon-text {
+    margin-right: 15px;
+    }
+
+    .baca p {
+    border-bottom: 2px solid #008180;
+    padding-bottom: 13px;
+    }
+
+    .baca i {
+        font-size: 15px;
+    }
+
+    footer {
+      background-color:  #fff5de ;
+      padding: 20px 0;
+    }
+    .footer-logo {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .footer-nav {
+      display: flex;
+      justify-content: center;
+      list-style: none;
+      padding: 0;
+    }
+    .footer-nav li {
+      margin: 0 10px;
+    }
+    .footer-nav a {
+      text-decoration: none;
+      color: #000;
+    }
+    .footer-social {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 10px;
+    }
+    .footer-social a {
+      margin: 0 10px;
+      color: #000;
+    }
