@@ -1,5 +1,6 @@
     body {
     padding-top: 128px;
+    overflow-x: hidden !important;
     }
     .link-blue:hover {
     color: #008180;
@@ -19,6 +20,21 @@
 
     .btn-baca {
     background-color: #f37c64 !important;
+    border-radius: 30px;
+    }
+
+    .btn-purple {
+    background-color: #787AFF !important;
+    border-radius: 30px;
+    }
+
+    .btn-video {
+    background-color: #000072 !important;
+    border-radius: 30px;
+    }
+
+    .btn-akmw {
+    background-color: #ff73c3 !important;
     border-radius: 30px;
     }
 
