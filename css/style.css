@@ -2,6 +2,12 @@
     padding-top: 128px;
     overflow-x: hidden !important;
     }
+
+    .hero-section {
+      background-color: #ffeaba;
+    }
+
+    
     .link-blue:hover {
     color: #008180;
     text-decoration: underline;
