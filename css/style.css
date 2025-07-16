@@ -4,8 +4,10 @@
     }
 
     .hero-section {
-      background-color: #ffeaba;
-    }
+      background-image: url('../img/hero-section/hero-section-new-fix-woi-ril.png') !important;
+      background-size: cover;
+      background-repeat: no-repeat;
+    } 
 
     
     .link-blue:hover {
